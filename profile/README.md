@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### This is the GitHub organisation for Yatanski Ltd.
+
 <!--
 
 **Here are some ideas to get you started:**
